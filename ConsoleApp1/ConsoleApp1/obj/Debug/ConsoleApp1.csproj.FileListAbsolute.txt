@@ -1,0 +1,7 @@
+E:\domashka\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\domashka\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\domashka\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\domashka\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\domashka\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\domashka\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\domashka\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
